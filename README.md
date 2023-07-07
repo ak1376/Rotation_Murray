@@ -1,3 +1,3 @@
 # Rotation_Murray
 
-This repository stores my code files that I used in my rotation project with James Murray at the University of Oregon.
+This project was on Dynamical Movement Primitives, a model proposed by Auke Ijspeert and Stefan Schaal for flexible motor control. My project was to adapt this model to be a more biologically-plausible model of motor control, one that models cortical regions as RNNs.
